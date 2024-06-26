@@ -1,4 +1,4 @@
-## Hi there 👋
+## Game development freelance studio
 
 <!--
 
