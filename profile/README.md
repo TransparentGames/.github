@@ -12,7 +12,7 @@ https://roshiroku.itch.io/project-flow
 
 https://roshiroku.itch.io/intertwined-universes-ccg
 
-![shortestone-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ee184efa-c2e2-4128-87a0-7c4a40587c91)
+![HQ banner](https://github.com/user-attachments/assets/60ea4773-57df-4304-9294-683681e85e5c)
 
 
 <!--
