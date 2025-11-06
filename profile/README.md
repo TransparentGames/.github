@@ -2,13 +2,23 @@
 
 Our projects:
 
-Gladiator project:
-![image](https://github.com/user-attachments/assets/b9c2eca7-49a1-4f5a-bb8c-7279a9aea376)
-![image](https://github.com/user-attachments/assets/ce2cc202-d3b3-4f53-9981-a7cf40d9329a)
+### Project Flow (Action, 3D, Anime, Hack and Slash, Third Person)
+<img width="920" height="430" alt="image" src="https://github.com/user-attachments/assets/de6cfcc9-a119-45ad-8fa4-eda8963aa090" />
+
+https://roshiroku.itch.io/project-flow
+
+### Intertwined Universes CCG (Card Game, Anime, Strategy, Top Down)
+<img width="920" height="483" alt="banner itch io" src="https://github.com/user-attachments/assets/46085f62-d16d-434e-a054-2a9652a9be47" />
+
+https://roshiroku.itch.io/intertwined-universes-ccg
+
+![shortestone-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ee184efa-c2e2-4128-87a0-7c4a40587c91)
+
 
 <!--
 
 **Here are some ideas to get you started:**
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
